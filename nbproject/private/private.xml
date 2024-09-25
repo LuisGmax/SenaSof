@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Configuaracion/Conectar.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/web/Vistas/menu.jsp</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Modelos/Usuario.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Modelos/UsuarioDAO.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Controlador/CtrValidar.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/web/Vistas/login.jsp</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/web/Vistas/regispac.jsp</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Modelos/Comentario.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Controlador/CtrComentario.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/web/Vistas/reseñas.jsp</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Modelos/ComentarioDAO.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/web/index.html</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/SenaSof/src/java/Controlador/CtrUsuario.java</file>
+        </group>
+    </open-files>
+</project-private>
